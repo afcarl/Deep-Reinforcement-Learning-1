@@ -1,3 +1,4 @@
+# coding=utf-8 
 # Self Driving Car
 
 # Importing the libraries
